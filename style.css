@@ -1,0 +1,40 @@
+#labela {
+    
+margin-top: 5px;
+margin-bottom: 5px;
+font-size: 20px;
+
+}
+
+h2 {
+margin-left: 10px;
+}
+
+h1 {
+margin-left: 10px;
+
+}
+
+#PanelHeading {
+    
+font-size: 25px;
+}
+
+body {
+padding: 10px;
+    background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Carbonfiber-semi-dark-Grey-Seamless-Pattern-For-Website-Background.jpg);
+}
+
+input {
+margin-bottom: 5px;
+}
+
+#gumb {
+margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+font-size: 20px;
+
+}
